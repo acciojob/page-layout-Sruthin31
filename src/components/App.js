@@ -1,6 +1,7 @@
 import React from "react";
 import './../styles/App.css';
-import PageLayout from "./PageLayout";
+
+import PageLayout from "./PageLayout.jsx";
 
 const App = () => {
   return (

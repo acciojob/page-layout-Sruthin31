@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" time="2.16">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-03-26T11:22:45" time="1.49" tests="1">
+    <testcase classname=" PageLayout renders header, footer, and children" name=" PageLayout renders header, footer, and children" time="0.028">
+    </testcase>
+  </testsuite>
+</testsuites>
